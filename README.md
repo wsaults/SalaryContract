@@ -1,6 +1,8 @@
 # Why this is here
 
-Write the code (deployable to the EVM) that will be used to pay your salary, publish it on Github (public or private) and send link to repo plus any information you consider important to jorge@aragon.one, with the subject Solidity opening application.  
+Write the code (deployable to the EVM) that will be used to pay your salary, publish it on Github (public or private) and send link to repo plus any information you consider important to jorge@aragon.one, with the subject Solidity opening application.
+
+https://gist.github.com/izqui/3428122070f2f8971c52f39c4d762252  
 
 # truffle-init-webpack
 Example webpack project with Truffle. Includes contracts, migrations, tests, user interface and webpack build pipeline.
